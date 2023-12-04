@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Framework/MediaPlayer.Framework.csproj": {}
+  },
+  "projects": {
+    "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Controller/MediaPlayer.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Controller/MediaPlayer.Controller.csproj",
+        "projectName": "MediaPlayer.Controller",
+        "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Controller/MediaPlayer.Controller.csproj",
+        "packagesPath": "/Users/Veraahde/.nuget/packages/",
+        "outputPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Controller/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Veraahde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj": {
+                "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Core/MediaPlayer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Core/MediaPlayer.Core.csproj",
+        "projectName": "MediaPlayer.Core",
+        "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Core/MediaPlayer.Core.csproj",
+        "packagesPath": "/Users/Veraahde/.nuget/packages/",
+        "outputPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Veraahde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Framework/MediaPlayer.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Framework/MediaPlayer.Framework.csproj",
+        "projectName": "MediaPlayer.Framework",
+        "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Framework/MediaPlayer.Framework.csproj",
+        "packagesPath": "/Users/Veraahde/.nuget/packages/",
+        "outputPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Framework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Veraahde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Controller/MediaPlayer.Controller.csproj": {
+                "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Controller/MediaPlayer.Controller.csproj"
+              },
+              "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj": {
+                "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj",
+        "projectName": "MediaPlayer.Service",
+        "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/MediaPlayer.Service.csproj",
+        "packagesPath": "/Users/Veraahde/.nuget/packages/",
+        "outputPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Veraahde/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Core/MediaPlayer.Core.csproj": {
+                "projectPath": "/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/MediaPlayer.Core/MediaPlayer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

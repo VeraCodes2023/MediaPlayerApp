@@ -1,0 +1,5 @@
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/obj/Debug/net7.0/MediaPlayer.csproj.AssemblyReference.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/obj/Debug/net7.0/MediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/obj/Debug/net7.0/MediaPlayer.AssemblyInfoInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/obj/Debug/net7.0/MediaPlayer.AssemblyInfo.cs
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_5-media-player/obj/Debug/net7.0/MediaPlayer.csproj.CoreCompileInputs.cache
